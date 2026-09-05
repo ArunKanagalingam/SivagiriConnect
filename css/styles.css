@@ -1,0 +1,15 @@
+/* Custom styles for Sivagiri Connect mockup */
+:root { --primary:#0d6efd; --muted:#2b6b86; --accent:#f6b200; --email:#6f42c1; --website:#0ea5a4; }
+body { font-family: 'Segoe UI', Roboto, Arial, sans-serif; background:#fff; color:#222; }
+.hero { background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../hero.jpg') center/cover no-repeat; padding: 100px 0; }
+.hero h1{ font-weight:600; font-size:28px; }
+.hero .lead{ color:#ddd; }
+.placeholder-img{ height:160px; background: linear-gradient(90deg,var(--muted), #123a4a); color:#fff; font-weight:700; display:block; border-top-left-radius:.375rem; border-top-right-radius:.375rem; }
+.search-bar { background:#f3f4f6 }
+.card { border-radius:10px; box-shadow:0 6px 18px rgba(15,23,42,0.06); overflow:hidden }
+.badge{ border-radius:999px; font-weight:600; text-transform:uppercase }
+.btn-email{ background:var(--email); color:#fff; border:none }
+.btn-website{ background:var(--website); color:#fff; border:none }
+.btn-whatsapp{ background:#25d366; color:#fff; border:none }
+.chat-btn{ position:fixed; right:22px; bottom:22px; background:var(--accent); border:none; padding:12px 18px; border-radius:28px; box-shadow:0 6px 18px rgba(0,0,0,0.16); font-weight:600 }
+@media (max-width:767px){ .hero{ padding:50px 0 } .placeholder-img{ height:140px } }

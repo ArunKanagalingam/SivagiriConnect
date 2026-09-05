@@ -1,0 +1,68 @@
+[
+  {
+    "id": "green-leaf-cafe",
+    "badge": "Business",
+    "title": "Green Leaf Home Cafe",
+    "address": "Main Bazaar Road, Sivagiri",
+    "phone": "+919876543210",
+    "email": "contact@greenleafcafe.com",
+    "website": "https://greenleafcafe.example",
+    "timings": "Mon-Sat, 9 AM - 9 PM",
+    "tags": ["Restaurant", "Business"]
+  },
+  {
+    "id": "techfix-repair",
+    "badge": "Business",
+    "title": "TechFix Repair Shop",
+    "address": "Near Bus Stand, Sivagiri",
+    "phone": "+919876511223",
+    "email": "info@techfixrepair.com",
+    "website": "https://techfix.example",
+    "timings": "Mon-Fri, 10 AM - 6 PM",
+    "tags": ["Electronics", "Business"]
+  },
+  {
+    "id": "fitness-gym",
+    "badge": "Business",
+    "title": "Fitness Gym",
+    "address": "Temple Street, Sivagiri",
+    "phone": "+919876522334",
+    "email": "hello@fitnesgym.com",
+    "website": "https://glowbeauty.example",
+    "timings": "Tue-Sun, 10 AM - 8 PM",
+    "tags": ["Gym", "Business"]
+  },
+  {
+    "id": "tirupur-route",
+    "badge": "Transport",
+    "title": "Sivagiri - Tirupur Route",
+    "address": "Route: Sivagiri -> Tirupur",
+    "phone": "+919876590002",
+    "email": "",
+    "website": "",
+    "timings": "Departures: 7:00 AM, 11:00 AM, 3:00 PM, 6:30 PM",
+    "tags": ["Transport"]
+  },
+  {
+    "id": "dr-kumar",
+    "badge": "Professional / Talent",
+    "title": "Dr. Kumar",
+    "address": "Clinic Road, Sivagiri",
+    "phone": "+919876555011",
+    "email": "",
+    "website": "",
+    "timings": "Mon-Sat, 9 AM - 1 PM & 5 PM - 8 PM",
+    "tags": ["Doctor", "Physician"]
+  },
+  {
+    "id": "sr-Prithvi",
+    "badge": "Professional / Talent",
+    "title": "Prithvi",
+    "address": "Graphic Designer",
+    "phone": "+919876555011",
+    "email": "",
+    "website": "",
+    "timings": "Mon-Sat, 9 AM - 1 PM & 5 PM - 8 PM",
+    "tags": ["Graphic Designer", "Tech"]
+  }
+]
